@@ -6,12 +6,11 @@ Hi, I'm taking you along on a journey as I gradually increase my understanding o
 
 <img src="https://media.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="50">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0E8D8C&vCenter=true&width=435&lines=Hillo!;How's+it+going+!)](https://git.io/typing-svg)
 
-<br>
 
 <img width="380" align="right" alt="Github"
 src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
 /> 
-# <b>Languages and Tools</b>
+## <b>Languages and Tools</b>
 <p align="left">
 <!-- vs code -->
  <a 
@@ -63,7 +62,6 @@ src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
 
 </p> 
 
----
 ## <b>How to reach me</b>
 <p>
 <!-- Github -->
