@@ -49,6 +49,15 @@ src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
         width="40" height="40"
     /> 
  </a> 
+  <!-- arduino-->
+ <a
+    href="https://www.arduino.cc/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
+        alt="arduino"40" height="40"
+    /> 
+ </a>
 
 <br>
 
