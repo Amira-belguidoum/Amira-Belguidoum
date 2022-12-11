@@ -10,7 +10,8 @@ Hi, I'm taking you along on a journey as I gradually increase my understanding o
 <img width="380" align="right" alt="Github"
 src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
 /> 
-## <b>Languages and Tools</b>
+<br>
+## <b>🧰 Languages and Tools</b>
 <p align="left">
 <!-- vs code -->
  <a 
@@ -53,16 +54,25 @@ src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
     href="https://www.arduino.cc/" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
-        alt="arduino"40" height="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg""alt="arduino"40" height="40"
     /> 
  </a>
-
+ <!-- matlab -->
+ <a 
+    href="https://www.mathworks.com/products/matlab.html"
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="git"
+        width="40" height="40"
+    /> 
+ </a> 
+                                    
 <br>
-
+<br>
+                                    
 </p> 
 
-## <b>How to reach me</b>
+## <b>📫 How to reach me</b>
 <p>
 <!-- Github -->
 <a 
